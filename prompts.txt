@@ -1,1 +1,0 @@
-The project has email_agent_graph inside the email_agent.py file which is working fine calling the roght tools. Given the current structure, I want to expose the email_agent_graph to work in MCP fashion where I can use Claude desktop to trigger this agent based on the tools available. Give me a step by step plan to ensure it works with MCP
